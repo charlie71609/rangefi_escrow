@@ -6,10 +6,10 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-rangefi_escrow = "9xbgm1HSMM8aUn4SAzrh1bfMm4of1GtYzsebnouogmby"
+rangefi_escrow = "4bVzaKedFWhFrJLkg46a7d77vcUj331HPpW8KLQY1HdS"
 
 [provider]
-cluster = "Devnet"
+cluster = "https://indulgent-maximum-isle.solana-devnet.quiknode.pro/0f197109bc946b06d42cc7be0068099da9b83e1c/"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
